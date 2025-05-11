@@ -1,4 +1,4 @@
-const API_URL = "https://your-railway-url.up.railway.app"; // Replace with your backend URL
+const API_URL = "agile-delight-production.up.railway.app"; // Replace with your backend URL
 
 document.getElementById('get-signal').addEventListener('click', async () => {
   const pair = document.getElementById('pair-select').value;
