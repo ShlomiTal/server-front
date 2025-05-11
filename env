@@ -1,0 +1,4 @@
+# .env
+MEXC_API_KEY=mx0vglaEUP5G1ZBusm
+PORT=3000
+NODE_ENV=production
